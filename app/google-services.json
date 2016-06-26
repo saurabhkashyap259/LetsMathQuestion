@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "923631210582",
+    "firebase_url": "https://letsmathquestion.firebaseio.com",
+    "project_id": "letsmathquestion",
+    "storage_bucket": "letsmathquestion.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:923631210582:android:9fcf1916e0e6feca",
+        "android_client_info": {
+          "package_name": "com.mate.letsmathquestion"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "923631210582-cgtkamucm9iooen95urfc3cj611n4sbn.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.mate.letsmathquestion",
+            "certificate_hash": "6DF0CDA39CA8078D9EC8CCFD60761168450C1468"
+          }
+        },
+        {
+          "client_id": "923631210582-omkb21rikfi7gmt9t82r3oiukqi3duar.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBxd7gIaUeI3rKUgAnYECjiNlH6QICoNJQ"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "923631210582-omkb21rikfi7gmt9t82r3oiukqi3duar.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
