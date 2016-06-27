@@ -15,6 +15,14 @@
       },
       "oauth_client": [
         {
+          "client_id": "923631210582-seq4uu2f481a536nc83u4q1hu29t8ri8.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.mate.letsmathquestion",
+            "certificate_hash": "A290D2E9516A62128B2244AFF5B0672AACC34367"
+          }
+        },
+        {
           "client_id": "923631210582-cgtkamucm9iooen95urfc3cj611n4sbn.apps.googleusercontent.com",
           "client_type": 1,
           "android_info": {
